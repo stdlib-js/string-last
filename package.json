@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-last",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the last character(s) of a string.",
   "license": "Apache-2.0",
   "author": {
