@@ -248,6 +248,10 @@ p
 
 * * *
 
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-first`][@stdlib/string/first]</span><span class="delimiter">: </span><span class="description">return the first character(s) of a string.</span>
+
 </section>
 
 <!-- /.related -->
@@ -333,6 +337,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [mdn-regexp]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
 <!-- <related-links> -->
+
+[@stdlib/string/first]: https://github.com/stdlib-js/string-first
 
 <!-- </related-links> -->
 
