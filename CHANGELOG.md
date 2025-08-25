@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-26)
+## Unreleased (2025-08-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2ba491f`](https://github.com/stdlib-js/stdlib/commit/2ba491fef8d133bf17c7cca63935585b862d2476) - **docs:** clean-up example code _(by Philipp Burckhardt)_
 -   [`a6f3921`](https://github.com/stdlib-js/stdlib/commit/a6f3921560705503dcb5ee2575dd2f11417f58fb) - **docs:** update related packages sections [(#4242)](https://github.com/stdlib-js/stdlib/pull/4242) _(by stdlib-bot, Athan Reines)_
 -   [`113ec19`](https://github.com/stdlib-js/stdlib/commit/113ec1946e4f10fbcce6cc59a57022afcdb582f5) - **docs:** update related packages sections [(#2207)](https://github.com/stdlib-js/stdlib/pull/2207 ) _(by stdlib-bot)_
 
@@ -25,9 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
